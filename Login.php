@@ -18,13 +18,13 @@
       <input type="password" placeholder="password"/>
       <input type="text" placeholder="email address"/>
       <button>create</button>
-      <p class="message">Already registered? <a href="SignUp.html">Sign In</a></p>
+      <p class="message">Already registered? <a href="SignUp.php">Sign In</a></p>
     </form>
     <form class="login-form">
-      <input type="text" placeholder="username"/>
-      <input type="password" placeholder="password"/>
+      <input type="text" placeholder="Usuario"/>
+      <input type="password" placeholder="Contraseña"/>
       <button>login</button>
-      <p class="message">Not registered? <a href="SignUp.html">Create an account</a></p>
+      <p class="message">¿No Tienes Cuenta ?<a href="SignUp.php">Crear cuenta</a></p>
     </form>
   </div>
 </div>

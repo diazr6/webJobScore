@@ -11,10 +11,10 @@ include('header.php');
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>About Us</h2>
+          <h2>Acerca De Nosotros</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
-            <li>About Us</li>
+            <li><a href="index.php">Inicio</a></li>
+            <li>Acerca De nosotros </li>
           </ol>
         </div>
 

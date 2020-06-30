@@ -16,13 +16,21 @@ $('.message a').click(function(){
 <div class="login-page">
   <div class="form">
     <form class="login-form-form">
-      <input type="text" placeholder="name"/>
-      <input type="password" placeholder="password"/>
-      <input type="text" placeholder="email address"/>
-      <button>create</button>
-      <p class="message">Already registered? <a href="#">Sign In</a></p>
+      <div class="row">
+         <input type="text" placeholder="Nombre"/>
+         <input type="text" placeholder="Correo Electronico"/>
+      </div>
+     <div>
+       
+     </div>
+      
+      <input type="text" placeholder="Usuario"/>
+      <input type="password" placeholder="Contraseña"/>
+      <input type="password" placeholder="Repetir Contraseña"/>
+      <button>crear</button>
+      <p class="message">¿ Ya tienes cuenta ? <a href="login.php">Sign In</a></p>
     </form>
-      <p class="message">Not registered? <a href="Login.html">Create an account</a></p>
+    
     </form>
   </div>
 </div>

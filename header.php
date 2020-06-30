@@ -51,30 +51,15 @@
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index.html">Home</a></li>
-          <li><a href="about.php">Nosotross</a></li>
+          <li class="active"><a href="index.php">Inicio</a></li>
+          <li><a href="nosotros.php">Nosotros</a></li>
           <li><a href="Login.php">Empleos</a></li>
-          <li><a href="Login">Empresas</a></li>
-          <li><a href="team.html">Team</a></li>
-          <li><a href="Login.html">Blog</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
-            </ul>
-          </li>
-          <li><a href="contact.php">Contact Us</a></li>
+          <li><a href="Login.php">Empresas</a></li>
+          <li><a href="equipo.php">Equipo</a></li>
+          <li><a href="Login.php">Blog</a></li>
+          <li><a href="Login.php">Evaluar empleos</a></li>
+          <li><a href="Login.php">Usuario</a></li>
+         
         </ul>
       </nav><!-- .nav-menu -->
 
